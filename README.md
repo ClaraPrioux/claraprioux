@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey! 👋
 
-<!--
-**ClaraPrioux/claraprioux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Clara, a Fullstack Developer student in Stockholm. I've discovered a passion for coding and the limitless possibilities it offers. I love learning every day in this field.
 
-Here are some ideas to get you started:
+### ✨ Skills
+- **Languages:** HTML, CSS, JavaScript, PHP, TypeScript, basics of C#, Java, and C++
+- **Frameworks:** Laravel, Angular, React, Express, Node.js
+- **Tools:** Docker, Git, Agile methodology, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Projects
+- **Personal Project:** [My Project](https://djur-osteopat.com/)
+
+### 🥇 ChasAcademy Projects
+- 👤 **First Website CV**
+- 🧍‍♂️ **Hangman Game (JavaScript)**
+- ✔️ **To-Do App (PHP)**
+- 🎞️ **IMDb-like App (Laravel, Group Project)**
+- 🍔 **Recipe App (Laravel & Angular)**
+- ⛅ **Weather App (React with API)**
+- 🪄 **Business Idea Project (Group Project, Coming Soon)**
