@@ -9,6 +9,7 @@ I'm Clara, a Fullstack Developer student in Stockholm. I've discovered a passion
 
 ### ⭐ Projects
 - **Personal Project:** [My Project](https://djur-osteopat.com/)
+- **Sophrology static website** *in progress*
 
 ### 🥇 ChasAcademy Projects
 - 👤 **First Website CV**
