@@ -19,3 +19,4 @@ I'm Clara, a Fullstack Developer student in Stockholm. I've discovered a passion
 - 🍔 **Recipe App (Laravel & Angular)**
 - ⛅ **Weather App (React with API)**
 - 🪄 **Business Idea Project (Group Project, Coming Soon)**
+- 🇸🇪 **MemoLang - Swedish learning app (Node.js, React, TypeScript & MongoDB)** *still in progress*
